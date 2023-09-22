@@ -4,6 +4,6 @@ I have a deeply rooted interest in developing systems that augment human capabil
 There is something truly uncanny about having a machine feel like an extension of self that drives my interest in everything I do. 
 My main hobbies include flying FPV drones and playing various musical instruments - machines augmenting my ability to perceive and influence the world.
 
-## [My Resume](http://jjshoots.ddns.net:8090/share/MygELAvk)
+### [My Resume](http://jjshoots.ddns.net:8090/share/MygELAvk)
 
 [![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjshoots&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
