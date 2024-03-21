@@ -6,4 +6,4 @@ My main hobbies include flying FPV drones and playing various musical instrument
 
 [![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjshoots&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-> [**My Resume**](http://jjshoots.ddns.net:8090/share/kCFhE3Q9)
+> [**My Resume**](https://jjshoots.ddns.net:8190/share/kCFhE3Q9)
